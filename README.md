@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joelmmm
-- 👀 I’m interested in people
-- 🌱 I’m currently learning something
+- 👀 I’m interested in people and making things easier
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web stuff
 - 📫 How to reach me joelmmmpereira@gmail.com
 
