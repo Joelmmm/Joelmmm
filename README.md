@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Joelmmm
-- 👀 I’m interested in people and making things easier
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on web stuff
-- 📫 How to reach me joelmmmpereira@gmail.com
+
 
 <!---
 Joelmmm/Joelmmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
